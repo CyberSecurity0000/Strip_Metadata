@@ -1,6 +1,7 @@
 # 🧹 God Strip Meta — Remoção Completa de Metadados de Vídeos MP4
 
-Um script avançado em **Shell Script** para remover **todos os metadados de arquivos MP4**, garantindo que vídeos publicados não deixem rastros de informações sensíveis. Ideal para criadores, pentesters ou labs de privacidade.
+Um script avançado em **Shell Script** para remover **todos os metadados de arquivos MP4**, garantindo que vídeos publicados não deixem rastros de informações sensíveis. Ideal para criadores, pentesters ou labs de privacidade. 
+Observação do Autor: Feito com ajuda da IA
 
 ---
 
